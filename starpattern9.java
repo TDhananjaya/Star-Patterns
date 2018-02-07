@@ -1,4 +1,4 @@
-public class starpattern8{
+public class starpattern9{
 
        public static void main(String args[]) {
          {
